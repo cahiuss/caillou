@@ -1,11 +1,11 @@
 body{
-  background-color: darkblue;
+  background-color: black;
 }
 
 p{
-  color: yellow;
+  color: white;
   text-align : center;
-   font-family: "Gill Sans Extrabold", sans-serif;
+   font-family: "Gill Sans Light", sans-serif;
 }
 h1{
   color: white;
@@ -13,6 +13,6 @@ h1{
 }
 
 h2{
-  color: grey ;
-  font-family: "Gill Sans Extrabold", sans-serif;
+  color: white ;
+  font-family: "Gill Sans Regular", sans-serif;
 }
