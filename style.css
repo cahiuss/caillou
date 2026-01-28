@@ -1,15 +1,15 @@
 body{
-  background-color:purple;
+  background-color: darkblue;
 }
 
 p{
-  color:blue;
+  color: black;
   text-align : center;
 }
 h1{
-  color:yellow;
+  color: white;
 }
 
 h2{
-  color:orange;
+  color: grey ;
 }
