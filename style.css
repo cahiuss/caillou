@@ -1,23 +1,26 @@
 body{
-  background-color: black;
+  background-color: white ;
 }
 
 p{
-  color: white;
+  color: black;
   text-align : center;
    font-family: "Gill Sans Light", sans-serif;
 }
 h1{
-  color: white;
+  color: black;
   font-family: "Gill Sans Extrabold", sans-serif;
 }
 
 h2{
-  color: white ;
+  color: black ;
   font-family: "Gill Sans Regular", sans-serif;
 }
 
 div{
   text-align : center; 
-  
+  font-size : 12px;
+  font-family: "Gill Sans Light", sans-serif;
 }
+
+
