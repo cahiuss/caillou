@@ -15,6 +15,7 @@ h1{
 h2{
   color: black ;
   font-family: "Gill Sans Regular", sans-serif;
+  text-transform: upper-case;
 }
 
 div{
