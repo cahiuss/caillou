@@ -44,6 +44,11 @@ div{
   font-family: "Gill Sans Regular", sans-serif;
 }
 
+script{ 
+  float: right 
+  width: 20%
+}
+
 span{
   font-weight: ;
   font-style: ;
