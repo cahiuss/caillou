@@ -21,10 +21,12 @@ h2{
   text-transform: upper-case;
 }
 
-h3{
+header{
   text-align : center; 
   font-size : 12 px;
-  font-family: "Gill Sans Regular", sans-serif;
+  font-family : "Gill Sans Regular", sans-serif;
+  width : 25%
+  height : 25%
 }
 
 div{
