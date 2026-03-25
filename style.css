@@ -12,6 +12,7 @@ p{
 h1{
   color: black;
   font-family: "Gill Sans Extrabold", sans-serif;
+  font-size: 72 px;
 }
 
 h2{
@@ -22,7 +23,7 @@ h2{
 
 div{
   text-align : center; 
-  font-size : 12px;
+  font-size : 12 px;
   font-family: "Gill Sans Regular", sans-serif;
 }
 
