@@ -6,9 +6,8 @@ p{
   color: black;
   text-align : justify;
   font-family: "Gill Sans Light", sans-serif;
-  colomn-count: 2;
-  
 }
+
 h1{
   color: black;
   font-family: "Gill Sans Extrabold", sans-serif;
@@ -29,9 +28,14 @@ h3{
   height : 25%
 }
 
+  .colonnes{
+    colomn-count: 2;
+    colomn-gap: 30 px;
+  }
+
 div{
   text-align : center; 
-  font-size : 8 px;
+  font-size : 6 px;
   font-family: "Gill Sans Regular", sans-serif;
 }
 
