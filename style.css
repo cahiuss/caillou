@@ -28,7 +28,7 @@ h3{
   height : 25%
 }
 
-  .colonnes{
+.colonnes{
     colomn-count: 2;
     colomn-gap: 30 px;
   }
