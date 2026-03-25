@@ -33,6 +33,11 @@ h3{
     colomn-gap: 30 px;
   }
 
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+
 div{
   text-align : center; 
   font-size : 6 px;
