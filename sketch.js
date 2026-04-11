@@ -2,6 +2,7 @@ var canvas;
 
 function setup() {
   canvas = createCanvas(700, 200);
+  canvas.position(700, 700)
   background(220);
   strokeWeight(3);
 }
