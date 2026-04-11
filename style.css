@@ -28,16 +28,6 @@ h3{
   height : 25%
 }
 
-.colonnes{
-    colomn-count: 2;
-    colomn-gap: 30 px;
-  }
-
-.centrer{
-  width: 500 px;
-  marge-right: auto;
-  marge-left: auto;
-
 .container{
   display: flex;
   justify-content: space-between;
