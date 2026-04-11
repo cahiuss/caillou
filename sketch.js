@@ -1,5 +1,7 @@
+var canvas;
+
 function setup() {
-  createCanvas(700, 200);
+  canvas = createCanvas(700, 200);
   background(220);
   strokeWeight(3);
 }
