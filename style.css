@@ -67,9 +67,12 @@ span{
 }
   
 .item { 
+  color: black;
+  text-align : justify;
+  font-family: "Gill Sans Light", sans-serif;
   width: 
   height:
-
+  }
 
 
 
