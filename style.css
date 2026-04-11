@@ -63,11 +63,11 @@ span{
   display: flex;
   flex-direction: row; 
   justify-content: flex-end; 
-  gap: 40px 
+  row-gap: 50px 
 }
   
 .item { 
-  width: 
+  width: 200px
   height:
   }
 
